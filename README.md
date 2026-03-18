@@ -74,3 +74,48 @@ Microsoft Dynamics NAV
 ---
 
 ⭐ *Actively looking for opportunities in Supply Chain, Consulting, and Operations roles*
+# Vessel Scheduling Optimization
+
+## Problem
+Port congestion and inefficient laycan scheduling causing delays.
+
+## Solution
+- Optimized vessel arrival sequence
+- Route allocation (IBRM / Flux separation)
+- Improved berth utilization
+
+## Result
+- Reduced waiting time
+- Improved turnaround efficiency
+# Demurrage Analysis Dashboard
+
+## Objective
+Identify cost drivers in vessel delays
+
+## Key Insights
+- Waiting time = major cost driver
+- Discharge inefficiency impacts demurrage
+
+## Impact
+₹15–20 lakh potential savings identified
+
+## Tools Used
+- Excel
+- Power BI
+# End-to-End Supply Chain Dashboard
+
+## Features
+- Vessel tracking
+- Inventory levels
+- Port operations visibility
+
+## Outcome
+Improved decision-making for planners
+# Supply Chain Simulation using FlexSim
+
+## Objective
+Simulate logistics operations
+
+## Outcome
+- Identified bottlenecks
+- Suggested process improvements
