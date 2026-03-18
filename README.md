@@ -1,2 +1,76 @@
-# Samiran-Mohanty
-Dynamic Operations &amp; Supply Chain Management professional (PGDM, CGPA: 9.21) and Green Belt – AI Integrated Lean Six Sigma holder with 4+ years of hands-on maritime experience. Demonstrated expertise in vessel operations, raw material logistics, barge planning, inventory management, and cost optimization across industrial and maritime environments.
+# 👋 Hi, I'm Samiran Mohanty
+
+🚢 Supply Chain & Operations Professional | Maritime Logistics Specialist  
+📍 Navi Mumbai, India  
+
+🎓 PGDM – Operations & SCM (CGPA: 9.21)  
+📊 Lean Six Sigma Green Belt | Data-Driven Decision Maker  
+
+---
+
+## 🚀 About Me
+
+I am a supply chain and maritime logistics professional with 4+ years of hands-on experience in vessel operations, inventory management, and global procurement.
+
+I specialize in:
+- Vessel & Barge Planning
+- Demurrage Reduction
+- Supply Chain Optimization
+- Data Analytics (Power BI, Tableau)
+
+---
+
+## 💼 Work Experience
+
+### 🔹 JSW Steel (Intern – Supply Chain Planning)
+- Improved vessel turnaround time by **15%**
+- Reduced port waiting time by **20%**
+- Identified demurrage savings of **₹15–20 lakh**
+
+### 🔹 XT Group (Merchant Navy)
+- Managed inventory worth **₹8–12 lakh per voyage**
+- Handled global procurement across **10+ ports**
+- Reduced wastage by **12% using forecasting**
+
+---
+
+## 📊 Featured Projects
+
+### 🚢 Vessel Scheduling Optimization
+- Laycan planning & route allocation
+- Reduced congestion and improved efficiency
+
+### 📉 Demurrage Analysis Dashboard
+- Identified cost leakage areas
+- Built Power BI dashboard for insights
+
+### 📦 Supply Chain Visibility Dashboard
+- Integrated port + plant + shipping data
+
+### 🧪 FlexSim Simulation
+- Modeled supply chain operations
+- Improved decision-making using simulation
+
+---
+
+## 🛠️ Skills
+
+**Supply Chain:**  
+Inventory Management, Demand Forecasting, Procurement, Vessel Planning  
+
+**Analytics Tools:**  
+Power BI, Tableau, Excel, FlexSim  
+
+**ERP:**  
+Microsoft Dynamics NAV  
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: mohanty.samiran2@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/samiran-mohanty-11b453191/
+
+---
+
+⭐ *Actively looking for opportunities in Supply Chain, Consulting, and Operations roles*
