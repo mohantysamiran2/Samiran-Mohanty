@@ -1,0 +1,13 @@
+# Vessel Scheduling Optimization
+
+## Problem
+Port congestion and inefficient laycan scheduling causing delays.
+
+## Solution
+- Optimized vessel arrival sequence
+- Route allocation (IBRM / Flux separation)
+- Improved berth utilization
+
+## Result
+- Reduced waiting time
+- Improved turnaround efficiency
